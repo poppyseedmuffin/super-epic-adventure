@@ -1,0 +1,13 @@
+body {
+  background-color: lightcoral;
+  color: rgb(121, 0, 70);
+  text-align: center;
+}
+
+p.first {
+  color: paleturquoise;
+}
+
+p.second {
+  color: pink;
+}
