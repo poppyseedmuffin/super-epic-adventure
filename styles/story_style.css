@@ -1,0 +1,15 @@
+body {
+    background-color: lightgrey;
+    color: lightslategray;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.first {
+    color: darkblue;
+}
+
+p.second {
+    color: darkolivegreen;
+}
